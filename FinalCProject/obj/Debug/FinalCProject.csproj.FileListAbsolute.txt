@@ -1,0 +1,133 @@
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe.config
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\FinalCProject.pdb
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\Guna.UI2.dll
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.AssemblyReference.cache
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Properties.Resources.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.GenerateResource.cache
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.CoreCompileInputs.cache
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCPr.F2F41FAB.Up2Date
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.pdb
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmdannhap.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe.licenses
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmtaotaikhoan.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtrangchu.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmchonphim.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmmotaphim.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\Code\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.xml
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtaianh.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmthongtindatve.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmquanliphim.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmshow.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlphongchieu.resources
+E:\MyProject\Code\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlrapchieu.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe.config
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.pdb
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmchonphim.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmmotaphim.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtaianh.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmthongtindatve.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtrangchu.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmdannhap.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmtaotaikhoan.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlphongchieu.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlrapchieu.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmquanliphim.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmshow.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Properties.Resources.resources
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe.licenses
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCPr.F2F41FAB.Up2Date
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe
+C:\Users\Dell\Desktop\BTLSQL\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.pdb
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe.config
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.pdb
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Guna.UI2.dll
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.dll
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.xml
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.AssemblyReference.cache
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmchonphim.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmmotaphim.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtaianh.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmthongtindatve.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtrangchu.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmdannhap.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmtaotaikhoan.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlphongchieu.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlrapchieu.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmquanliphim.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmshow.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Properties.Resources.resources
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.GenerateResource.cache
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe.licenses
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.CoreCompileInputs.cache
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCPr.F2F41FAB.Up2Date
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.pdb
+E:\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmthongke.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe.config
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.pdb
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Guna.UI2.dll
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.dll
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.xml
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.AssemblyReference.cache
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmchonphim.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmmotaphim.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtaianh.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmthongtindatve.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtrangchu.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmdannhap.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmtaotaikhoan.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlphongchieu.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlrapchieu.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmquanliphim.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmshow.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmthongke.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Properties.Resources.resources
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.GenerateResource.cache
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe.licenses
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.CoreCompileInputs.cache
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCPr.F2F41FAB.Up2Date
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.pdb
+E:\bancuoi\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmthongtinve.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe.config
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.exe
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\FinalCProject.pdb
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Guna.UI2.dll
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.dll
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\bin\Debug\Newtonsoft.Json.xml
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.AssemblyReference.cache
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmchonphim.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmmotaphim.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtaianh.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmthongtindatve.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Booking.frmtrangchu.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmdannhap.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.frmtaotaikhoan.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlphongchieu.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmqlrapchieu.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmquanliphim.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmshow.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmthongke.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Management.frmthongtinve.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.Properties.Resources.resources
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.GenerateResource.cache
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe.licenses
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.csproj.CoreCompileInputs.cache
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCPr.F2F41FAB.Up2Date
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.exe
+D:\Cinema_Management\NguyenXuanMong-TranGiaHuy\BookingSystem\FinalProject\FinalCProjectnew\FinalCProject 8\FinalCProject\FinalCProject\obj\Debug\FinalCProject.pdb
